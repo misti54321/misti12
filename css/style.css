@@ -1,0 +1,23 @@
+td{
+    padding: 10px 20px;
+    font-size: 20px;
+    text-align: center;
+    
+   
+}
+td:hover{
+    background-color: rgb(14, 20, 20);
+transition: 1px;
+
+}
+
+
+   .mmm1{
+    
+    background-color: blueviolet;
+   }
+ .user{
+     
+     padding-top: 95px;
+ }
+   
